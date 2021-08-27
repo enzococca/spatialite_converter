@@ -3,7 +3,7 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Spatialite_Converter
+name=spatialite_converter
 qgisMinimumVersion=3.0
 description=Tool to convert spatialite 3 or 4 into 5
 version=0.1
@@ -26,7 +26,7 @@ hasProcessingProvider=no
 tags=python, spatialite, database
 
 homepage=https://github.com/enzococca/spatialite_converter
-category=Database
+category=Plugins
 icon=icon.png
 # experimental flag
 experimental=False
@@ -39,8 +39,7 @@ deprecated=False
 # Check the documentation for more information.
 # plugin_dependencies=
 
-Category of the plugin: Raster, Vector, Database or Web
-# category=
+
 
 # If the plugin can run on QGIS Server.
 server=False
