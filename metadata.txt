@@ -12,8 +12,8 @@ email=enzo.ccc@gmail.com
 
 about=Tool to convert spaialite db 3 or 4 into 5
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/enzococca/spatialite_converter
+repository=https://github.com/enzococca/spatialite_converter
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python, spatialite, database
 
-homepage=http://homepage
+homepage=https://github.com/enzococca/spatialite_converter
 category=Database
 icon=icon.png
 # experimental flag
